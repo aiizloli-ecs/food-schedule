@@ -1,0 +1,1 @@
+Food Schedule for diabetes, gout and kidnet patient is different in 7 days.
